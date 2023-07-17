@@ -1,2 +1,2 @@
-message = "\nHello World! I'm that guy!!\n"
+message = "\nHello World!\n"
 print(message)
