@@ -1,2 +1,3 @@
 # LIST YOUR APT PACKAGES HERE
-numpy
+sudo apt-get install python3-numpy
+
