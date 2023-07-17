@@ -1,5 +1,5 @@
-import numpy
-message = "\nHello World!\n"
+import os
+
+vehicle_name = os.environ['VEHICLE_NAME']
+message = f"\nHello from {vehicle_name}!\n"
 print(message)
-my_array = numpy.array([1,2,3,4])
-print(my_array)
